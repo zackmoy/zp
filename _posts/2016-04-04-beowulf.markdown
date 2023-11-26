@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2-07-16
+img: circus.png
+alt: image-alt
+project-date: April 2014
+client: Beowulf, Lord of the Bros
+category: New Musicals
+description: _Beowulf, Lord of the Bros_ is written and composed by Matt Deitchman and Jed Feder. University Theatre presents the world premiere of this modern, musical bro-mantic rock comedy for the ages. Ross Garth is a 20-something bro who throws bomb parties. His best bro/roommate is moving, his neighbor keeps ruining the parties and, despite her hints, he’s not ready to have his girlfriend move in yet. Enter Beowulf, Lord of the bros, savior of parties and the embodiment of charisma. Ross and Beo face their childish adulthoods and try to grow up. When Beo’s methods prove too extreme, friendships are tested, parties are busted and jokes abound. 
+---
