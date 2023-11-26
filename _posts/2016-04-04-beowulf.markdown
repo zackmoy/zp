@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2-07-16
-img: circus.png
+img: beowulf.jpeg
 alt: image-alt
 project-date: April 2014
 client: Beowulf, Lord of the Bros
