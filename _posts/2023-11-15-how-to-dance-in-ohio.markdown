@@ -2,8 +2,8 @@
 layout: default
 modal-id: 1
 date: 2023-11-15
-img: cabin.png
-alt: image-alt
+img: htdio.jpeg
+alt: How to Dance in Ohio logo
 project-date: November 2023
 client: How to Dance in Ohio
 category: New Musicals
